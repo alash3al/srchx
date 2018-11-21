@@ -9,7 +9,8 @@ Features
 - Utilizes the full CPU cores, thanks to `Go` runtime.
 - Pluggable storage engines.
 - Simple & Neat RESTful API.
-- Dynamic Index Creation, you don't need to create an index
+- Dynamic Index Creation, you don't need to create an index, just `POST` your data to the indexing endpoint.
+- You can search for your documents instantly.
 
 Installation
 =============
