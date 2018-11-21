@@ -1,6 +1,6 @@
 SRCHX
 ======
-> A standalone lightweight full-text search engine built on top of `blevesearch` and `Go` with multiple storage (`scorch`, `boltdb`, `leveldb`, `rocksdb`)
+> A standalone lightweight full-text search engine built on top of `blevesearch` and `Go` with multiple storage (`scorch`, `boltdb`, `leveldb`, `badgerdb`)
 
 Features
 ==========
