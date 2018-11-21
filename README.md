@@ -12,3 +12,9 @@ Features
 
 Installation
 =============
+1. Goto [Releases Page](https://github.com/alash3al/srchx/releases)
+2. Choose your platform based version
+3. Download it
+4. Copy/Rename it as `./srchx`
+5. Run `chmod +x ./srchx`
+6. Run `./srchx --help` to see help info
