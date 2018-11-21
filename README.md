@@ -55,3 +55,7 @@ Refs
 1. [Blevesearch](http://blevesearch.com/)
 2. [QueryStringQuery](http://blevesearch.com/docs/Query-String-Query/)
 3. [Sorting](http://blevesearch.com/docs/Sorting/)
+
+About Me
+=========
+A Gopher who likes to build tiny things that make big change.
