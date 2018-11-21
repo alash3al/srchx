@@ -49,3 +49,9 @@ $ curl http://localhost:2050/twitter/tweets/_search?query=+user:u5
 API Documentation
 =================
 > I published the API docs on postman [here](https://documenter.getpostman.com/view/2408647/RzZFDwf4) with examples.
+
+Refs
+=====
+1. [Blevesearch](http://blevesearch.com/)
+2. [QueryStringQuery](http://blevesearch.com/docs/Query-String-Query/)
+3. [Sorting](http://blevesearch.com/docs/Sorting/)
