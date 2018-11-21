@@ -64,7 +64,6 @@ func (s *Store) InitIndex(name string) (ndx *Index, err error) {
 	}
 
 	indexMapping := bleve.NewIndexMapping()
-	indexMapping.DefaultAnalyzer = "srchx"
 
 	switch engine {
 	case "boltdb":

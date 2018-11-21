@@ -24,7 +24,7 @@ func routeHome(c echo.Context) error {
 func routeIndex(c echo.Context) error {
 	var doc map[string]interface{}
 	if err := c.Bind(&doc); err != nil {
-		return c.JSON(500, map[string]interface{}{
+		return c.JSON(400, map[string]interface{}{
 			"success": false,
 			"error":   err.Error(),
 		})

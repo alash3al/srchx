@@ -53,7 +53,7 @@ func (i *Index) Get(id string) (data map[string]interface{}, err error) {
 
 // Put - set/update a document
 func (i *Index) Put(data map[string]interface{}) (document map[string]interface{}, err error) {
-	if _, found := data["id"]; !found {
+	if _, found := data["id"]; !found || data["id"] == "" {
 		uid, err := uuid.NewV4()
 		if err != nil {
 			return nil, err
