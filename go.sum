@@ -6,6 +6,8 @@ github.com/Smerity/govarint v0.0.0-20150407073650-7265e41f48f1 h1:G/NOANWMQev0Cf
 github.com/Smerity/govarint v0.0.0-20150407073650-7265e41f48f1/go.mod h1:o80NPAib/LOl8Eysqppjj7kkGkqz++eqzYGlvROpDcQ=
 github.com/alash3al/bbadger v0.0.0-20181109122625-e06c832e75f9 h1:lALjrj2umA9esmW04D91oRYzUPya70bg74VaFq49NqI=
 github.com/alash3al/bbadger v0.0.0-20181109122625-e06c832e75f9/go.mod h1:k8NVgp657pz+yJv32pMwvVXhUFRGk6AtPhNVIGfJKUw=
+github.com/alash3al/libsrchx v0.0.0-20181124123034-8a140717e195 h1:S3mU3lmUgGlfgxhOKCTS5FSo+TEbrocwTJfmUv0WcOo=
+github.com/alash3al/libsrchx v0.0.0-20181124123034-8a140717e195/go.mod h1:LDXxQQANZHXh9aM7wqyhxIlnTeZDJusAI6rFszUExck=
 github.com/blevesearch/bleve v0.7.0 h1:znyZ3zjsh2Scr60vszs7rbF29TU6i1q9bfnZf1vh0Ac=
 github.com/blevesearch/bleve v0.7.0/go.mod h1:Y2lmIkzV6mcNfAnAdOd+ZxHkHchhBfU/xroGIp61wfw=
 github.com/blevesearch/blevex v0.0.0-20180227211930-4b158bb555a3 h1:U6vnxZrTfItfiUiYx0lf/LgHjRSfaKK5QHSom3lEbnA=

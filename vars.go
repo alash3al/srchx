@@ -5,6 +5,8 @@ import (
 	"log"
 	"os"
 	"path"
+
+	"github.com/alash3al/libsrchx"
 )
 
 var (
@@ -14,14 +16,14 @@ var (
 )
 
 var (
-	store *Store
+	store *srchx.Store
 )
 
 func init() {
 	var err error
 	flag.Parse()
 
-	store, err = NewStore(*flagEngine, *flagStoragePath)
+	store, err = srchx.NewStore(*flagEngine, *flagStoragePath)
 	if err != nil {
 		log.Fatal(err)
 	}
