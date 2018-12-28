@@ -48,7 +48,7 @@ $ curl http://localhost:2050/twitter/tweets/_search?query=+user:u5
 
 API Documentation
 =================
-> I published the API docs on postman [here](https://documenter.getpostman.com/view/2408647/RzZFDwf4) with examples.
+> I published the API docs on postman [here](https://documenter.getpostman.com/view/2408647/RznBLzUY) with examples.
 
 Refs
 =====
