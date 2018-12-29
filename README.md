@@ -45,7 +45,7 @@ $ curl http://localhost:2050/twitter/tweets/_doc/2552b636-002e-4f1a-98b1-bdb06c2
 
 API Documentation
 =================
-> I published the API docs on postman [here](https://documenter.getpostman.com/view/2408647/RzZFDwf4) with examples.
+> I published the API docs on postman [here](https://documenter.getpostman.com/view/2408647/RznBLzUY) with examples.
 
 Refs
 =====
