@@ -40,9 +40,6 @@ $ curl --request POST \
 # Fetch the previously added document using its ID
 $ curl http://localhost:2050/twitter/tweets/_doc/2552b636-002e-4f1a-98b1-bdb06c2464ac
 
-# Example 3
-# Search for the documents that contains u5
-$ curl http://localhost:2050/twitter/tweets/_search?query=+user:u5
 
 ```
 
